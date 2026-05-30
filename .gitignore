@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.vscode/
+.worktree-backups/
+.env
+artifacts/
+sessions/
+reports/
+reconpilot.egg-info/
+*.egg-info/
+build/
+dist/
